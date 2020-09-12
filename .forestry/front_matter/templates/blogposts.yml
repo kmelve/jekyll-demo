@@ -1,4 +1,18 @@
 ---
 label: Blogposts
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: For titles
+- name: body
+  type: blocks
+  label: Body
+  template_types:
+  - blogposts
+  config:
+    min: 
+    max: 
