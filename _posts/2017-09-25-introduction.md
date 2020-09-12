@@ -1,9 +1,7 @@
 ---
-title: Welcome to a bunch of changes! Here’s changes!
+title: Welcome to a race condition!
 date: 2017-09-29 09:09:13 +0000
 related_posts:
-- 'New '
-- ''
 - _posts/2017-02-12-modern.md
 - _posts/2017-08-01-welcome.md
 sub_heading: An introduction to Forestry
